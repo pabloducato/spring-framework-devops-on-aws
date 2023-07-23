@@ -16,7 +16,7 @@ public class DefaultProfileSysOut {
         System.out.println("#############################");
         System.out.println("#############################");
         System.out.println("#############################");
-        System.out.println("#########    DEV     ########");
+        System.out.println("#########   DEFAULT  ########");
         System.out.println(msg);
         System.out.println("#############################");
         System.out.println("#############################");

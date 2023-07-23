@@ -1,0 +1,5 @@
+pl:
+  kocan:
+    springframeworkdevopsonaws:
+      profile:
+        message: This is my PROD profile
